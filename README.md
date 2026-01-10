@@ -38,6 +38,6 @@ A simple and modern **Fitness Point Frontend Website** built using **HTML, CSS, 
 
 ## ✍️ Author
      Mamatha Nalagoppula
-     https://github.com/Mamatha-05/
+     https://github.com/Mamatha-05
 
 
