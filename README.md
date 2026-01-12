@@ -36,9 +36,13 @@ A simple and modern **Fitness Point Frontend Website** built using **HTML, CSS, 
 ---
 
 ## ✍️ Author
-**Shilpa** — [GitHub]https://github.com/lingalashilpa
+**Shilpa** — [GitHub] https://github.com/lingalashilpa
 
 ---
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+Minor UI cleanup and readability improvements.
+
+
